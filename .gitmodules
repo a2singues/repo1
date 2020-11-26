@@ -1,0 +1,4 @@
+[submodule "subrepo1"]
+	path = subrepo1
+	url = https://github.com/a2singues/subrepo1.git
+	branch = master
